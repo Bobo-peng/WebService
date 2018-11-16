@@ -1,0 +1,6 @@
+N:\Project_vs2013\WebServiceTest\WebServiceTest\bin\WebServiceTest.dll.config
+N:\Project_vs2013\WebServiceTest\WebServiceTest\bin\WebServiceTest.dll
+N:\Project_vs2013\WebServiceTest\WebServiceTest\bin\WebServiceTest.pdb
+N:\Project_vs2013\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.csprojResolveAssemblyReference.cache
+N:\Project_vs2013\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.dll
+N:\Project_vs2013\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.pdb
